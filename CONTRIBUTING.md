@@ -29,7 +29,7 @@ Kami mengharapkan semua peserta untuk:
 - Menerima kritik membangun dengan lapang dada
 - Mengutamakan kepentingan komunitas dan pengguna akhir
 
-Perilaku yang tidak dapat diterima akan dilaporkan kepada maintainer di **[email kamu]**.
+Perilaku yang tidak dapat diterima akan dilaporkan kepada maintainer di **[anasu1997@gmail.com]**.
 
 ---
 
@@ -116,7 +116,7 @@ Apakah ada contoh dari sistem lain? Siapa yang akan paling terbantu?
 
 ```bash
 # Fork dulu via GitHub UI, lalu clone fork kamu
-git clone https://github.com/USERNAME_KAMU/simawas.git
+git clone [https://github.com/chiaii/simawas-app]
 cd simawas
 ```
 
@@ -271,7 +271,7 @@ Kami membuka kesempatan **pilot project** dengan:
 - Pendampingan onboarding pengguna
 - Prioritas penanganan isu dan permintaan fitur
 
-Hubungi maintainer di **[email kamu]** dengan subjek: `[PILOT] Nama Instansi - Kabupaten/Kota`
+Hubungi maintainer di **[anasu1997@gmail.com]** dengan subjek: `[PILOT] Nama Instansi - Kabupaten/Kota`
 
 ---
 
@@ -279,8 +279,8 @@ Hubungi maintainer di **[email kamu]** dengan subjek: `[PILOT] Nama Instansi - K
 
 Punya pertanyaan yang tidak tercakup di sini?
 
-- **Email:** [email kamu]
-- **GitHub Discussions:** [github.com/usernamekamu/simawas/discussions](../../discussions)
+- **Email:** [anasu1997@gmail.com]
+- **GitHub Discussions:** [github.com/chiaii/simawas-app/discussions/6]
 - **Issue:** Buka Issue baru dengan label `question`
 
 ---
