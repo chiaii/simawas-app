@@ -131,7 +131,7 @@ Lihat [LICENSE](LICENSE) untuk detail lengkap.
 
 **Maintainer:** [Muhammad Anas]  
 **Lokasi:** Bireuen, Aceh, Indonesia  
-**Email:** [anasu1997@gmail.com]  
+**Email:** anasu1997@gmail.com
 **Instansi Pilot:** Inspektorat Kabupaten Bireuen, Aceh
 
 ---
