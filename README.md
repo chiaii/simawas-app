@@ -129,9 +129,9 @@ Lihat [LICENSE](LICENSE) untuk detail lengkap.
 
 ## 📬 Kontak
 
-**Maintainer:** [Nama kamu]  
-**Lokasi:** Aceh, Indonesia  
-**Email:** [email kamu]  
+**Maintainer:** [Muhammad Anas]  
+**Lokasi:** Bireuen, Aceh, Indonesia  
+**Email:** [anasu1997@gmail.com]  
 **Instansi Pilot:** Inspektorat Kabupaten Bireuen, Aceh
 
 ---
